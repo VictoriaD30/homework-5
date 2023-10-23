@@ -7,6 +7,31 @@
    --color-footer-content:rgba(255, 255, 255, 0.60);
    --portfolio-background-button:#F5F4FA;
 }
+.features{
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+.section-hero{
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+.section-work{
+  padding-bottom: 94px;
+}
+.section-team{
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+.footer{
+padding-top: 60px;
+padding-bottom: 60px;
+}
+.container{
+  max-width: 1200px ;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 auto;
+}
 body{
   font-size: 14px;
   font-family: Roboto;
